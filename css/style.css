@@ -9,6 +9,9 @@ body li a{
 .list li {
   text-align: center;
   list-style-type: "\1F44D";
+  display: inline-block; 
+
+  /* or try above with -> list-style-position: inside;*/
 }
 .nav_ {
   width: 90%;
@@ -32,7 +35,7 @@ body li a{
 .nav_ li a {
   display: block;
   padding: 0px;
-  color: #A2D9CE;
+  color: black;
 }
 
 /*hover*/
