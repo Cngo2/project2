@@ -8,7 +8,7 @@ body li a{
 
 .list li {
   text-align: center;
-  list-style: none;
+  list-style-type: "\1F44D";
 }
 .nav_ {
   width: 90%;
@@ -25,21 +25,21 @@ body li a{
   
   text-align: center;
   box-sizing: content-box;
-  margin-bottom: 5%;
+  margin-bottom: 2%;
   list-style: none;
 }
 
 .nav_ li a {
   display: block;
-  padding: 0.8em 0;
-  color: #D2394E;
+  padding: 0px;
+  color: #A2D9CE;
 }
 
 /*hover*/
 
 .nav_ li a:hover {
   color: #A0F7EB;
-  background-color: #D2394E;
+  background-color: #A2D9CE;
   text-decoration: none;
 
 /*nav bar styling*/
