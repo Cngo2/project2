@@ -1,5 +1,5 @@
 body {
-	background-color:#F8F9F9;
+	background-color: #CCD1D1;
 }
 
 body li a{
@@ -33,4 +33,51 @@ body li a{
   display: block;
   padding: 0.8em 0;
   color: #D2394E;
+}
+
+/*hover*/
+
+.nav_ li a:hover {
+  color: #A0F7EB;
+  background-color: #D2394E;
+  text-decoration: none;
+
+/*nav bar styling*/
+
+.nav_ { 
+    width: 100%;
+}
+
+.nav_ li {
+    width: 15%;
+    padding: 0;
+    display: block;
+    position: relative;
+    float: left;
+    background-color: transparent;
+    margin-bottom: 0;
+}
+.nav_ li a {
+    display: block;
+    padding: 0.8em 0;
+}
+  .nav_ ul {
+    overflow: hidden;
+    margin: 0 auto;
+    background-color: #A0F7EB;
+}
+
+.nav_ li:nth-child(3) {
+    float: right;
+}
+.nav_ li:nth-child(2) {
+    margin-right: 17%;
+    margin-left: 17%;
+}
+.nav_ li:nth-child(1) {
+    margin-left: 10%;
+}
+.nav_ li:nth-child(3) {
+    margin-right: 10%;
+}
 }
