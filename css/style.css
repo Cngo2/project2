@@ -124,7 +124,7 @@ h1, h2, h3, h4 {
 
 .exposure img{
 	position: relative;
-	left: 600px;
+	text-align: center;
 }
 
 .origin {
@@ -132,8 +132,6 @@ h1, h2, h3, h4 {
 	background-color: #E8F6F3;
 	border: 2px solid black;
     border-radius: 15px;
-    left: 50px;
-    bottom: 100px;
  }
 
 .origin {
@@ -146,7 +144,7 @@ h1, h2, h3, h4 {
 
 .cad img{
 	position: relative;
-	right: 600px;
+	right: 300px;
 }
 
 .dmodel {
@@ -154,8 +152,6 @@ h1, h2, h3, h4 {
 	background-color: #E8F6F3;
 	border: 2px solid black;
     border-radius: 15px;
-    right: 50px;
-    bottom: 100px;
  }
 
 .dmodel {
@@ -168,7 +164,7 @@ h1, h2, h3, h4 {
 
 .product img{
 	position: relative;
-	left: 600px;
+	left: 300px;
 }
 
 .printedprod {
@@ -176,8 +172,6 @@ h1, h2, h3, h4 {
 	background-color: #E8F6F3;
 	border: 2px solid black;
     border-radius: 15px;
-    left: 50px;
-    bottom: 100px;
  }
 
 .printedprod{
