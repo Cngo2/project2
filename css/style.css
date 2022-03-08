@@ -7,11 +7,12 @@ body li a{
 }
 
 h1, h2, h3, h4 {
+	font-family: Verdana, sans-serif;
 	text-align: center;
 }
 
 .contactp {
-	width: 30%;
+	width: 50%;
 	text-align: center;
 	padding: 20px;
 	background-color: #E8F6F3;
@@ -24,7 +25,7 @@ h1, h2, h3, h4 {
 }
 
 .education-content {
-	width: 80%;
+	width: 75%;
 	margin:  0 auto;
 	background-color: #E8F6F3;
 	border: 2px solid black;
@@ -32,6 +33,7 @@ h1, h2, h3, h4 {
 }
 
 .pro-skeleton {
+	width: 90%;
 	background-color: #E8F6F3;
 	border: 2px solid black;
     border-radius: 15px
@@ -44,10 +46,6 @@ h1, h2, h3, h4 {
 	text-align: center;
 	margin: 0;
 	padding: 0;
-}
-
-.left,
-.right {
 	background-color: #E8F6F3;
 	border: 2px solid black;
     border-radius: 15px
@@ -62,14 +60,14 @@ h1, h2, h3, h4 {
 }
 
 .proj-skeleton {
-	width: auto;
+	width: 60%;
 	margin:  0 auto;
 	background-color: #E8F6F3;
 	border: 2px solid black;
     border-radius: 15px}
 
 .volun-skeleton {
-	width: auto;
+	width: 60%;
 	margin:  0 auto;
 	background-color: #E8F6F3;
 	border: 2px solid black;
