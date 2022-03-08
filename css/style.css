@@ -19,9 +19,11 @@ h1, h2, h3, h4 {
     margin: 0;
     padding: 0;
     overflow: hidden;
+    list-style-type: none;
 }
 .nav_ ul li {
   float: left;
+  list-style-type: none;
 }
 
 .nav_ ul li a {
@@ -41,6 +43,7 @@ h1, h2, h3, h4 {
 .nav_ li a:hover {
   color: #000;
   background-color: #ccc;
+  list-style-type: none;
 }
 
 .contactp {
