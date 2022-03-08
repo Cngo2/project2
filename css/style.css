@@ -87,12 +87,12 @@ li.even {
 	margin: 0.5em;
 } 
 .nav_ {
-  width: 90%;
+  width: 40%;
   margin: 0 auto;
 }
 .nav_ ul {
   margin: 0;
-  padding: 0;
+  padding: 5px;
   margin: 0 auto;
   background-color: #A9CCE3;
 }
