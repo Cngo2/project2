@@ -11,26 +11,35 @@ h1, h2, h3, h4 {
 }
 
 .contactp {
+	width: 30%;
 	text-align: center;
-	padding: 25px;
+	padding: 20px;
 	background-color: #E8F6F3;
+	border: 2px solid black;
+    border-radius: 25px
 }
 
 .skills_skeleton {
 	width: 80%;
 	margin:  0 auto;
-	background-color: #E8F6F3 ;
+	background-color: #E8F6F3;
+	border: 2px solid black;
+    border-radius: 25px
 
 }
 
 .education-content {
 	width: 80%;
 	margin:  0 auto;
-	background-color: red;
+	background-color: #E8F6F3;
+	border: 2px solid black;
+    border-radius: 25px
 }
 
 .pro-skeleton {
 	background-color: #E8F6F3;
+	border: 2px solid black;
+    border-radius: 25px
 }
 
 .left,
@@ -53,13 +62,16 @@ h1, h2, h3, h4 {
 .proj-skeleton {
 	width: 80%;
 	margin:  0 auto;
-	background-color: purple;
-}
+	background-color: #E8F6F3;
+	border: 2px solid black;
+    border-radius: 25px}
 
 .volun-skeleton {
 	width: 80%;
 	margin:  0 auto;
-	background-color: royalblue;
+	background-color: #E8F6F3;
+	border: 2px solid black;
+    border-radius: 25px
 }
 
 .list li {
