@@ -85,19 +85,100 @@ h1, h2, h3, h4 {
 	text-align: center;
 }
 
+.apple,
+.plexus,
+.dcc { 
+	background-color: #E8F6F3;
+	border: 2px solid black;
+    border-radius: 15px
+}
+
 .proj-skeleton {
-	width: 60%;
 	margin:  0 auto;
 	background-color: #E8F6F3;
 	border: 2px solid black;
     border-radius: 15px}
 
 .volun-skeleton {
-	width: 60%;
 	margin:  0 auto;
 	background-color: #E8F6F3;
 	border: 2px solid black;
     border-radius: 15px
+}
+
+.exposure img,
+.cad img,
+.product img {
+	margin: 10px;
+	border-radius: 15px;
+	height: 350px;
+	width: 575px;
+}
+
+.exposure{
+	background-color: dimgrey;
+}
+
+.exposure img{
+	position: relative;
+	left: 600px;
+}
+
+.origin {
+	position: absolute;
+	background-color: #E8F6F3;
+	border: 2px solid black;
+    border-radius: 15px;
+    left: 50px;
+    bottom: 100px;
+ }
+
+.origin {
+	position: relative;
+}
+
+.cad{
+	background-color: dimgrey;
+}
+
+.cad img{
+	position: relative;
+	right: 600px;
+}
+
+.dmodel {
+	position: absolute;
+	background-color: #E8F6F3;
+	border: 2px solid black;
+    border-radius: 15px;
+    right: 50px;
+    bottom: 100px;
+ }
+
+.dmodel {
+	position: relative;
+}
+
+.product {
+	background-color: dimgrey;
+}
+
+.product img{
+	position: relative;
+	left: 600px;
+}
+
+.printedprod {
+	position: absolute;
+	background-color: #E8F6F3;
+	border: 2px solid black;
+    border-radius: 15px;
+    left: 50px;
+    bottom: 100px;
+ }
+
+.printedprod{
+	position: relative;
 }
 
 .list li {
