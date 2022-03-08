@@ -1,5 +1,5 @@
 body {
-	background-color: #CCD1D1;
+	background-color: #F2F4F4;
 }
 
 body li a{
@@ -11,18 +11,26 @@ h1, h2, h3, h4 {
 }
 
 .contactp {
-	background-color: #EBDEF0;
+	text-align: center;
+	padding: 25px;
+	background-color: #E8F6F3;
 }
 
-.skills-skeleton {
+.skills_skeleton {
 	width: 80%;
 	margin:  0 auto;
-	background-color: green;
+	background-color: #E8F6F3 ;
 
+}
+
+.education {
+	width: 80%;
+	margin:  0 auto;
+	background-color: red;
 }
 
 .pro-skeleton {
-	background-color: orange;
+	background-color: #E8F6F3;
 }
 
 .left,
@@ -41,21 +49,15 @@ h1, h2, h3, h4 {
 }
 
 .proj-skeleton {
-	width: 90%;
+	width: 80%;
 	margin:  0 auto;
 	background-color: purple;
 }
 
 .volun-skeleton {
-	width: 90%;
-	margin:  0 auto;
-	background-color: royalblue;
-}
-
-.education {
 	width: 80%;
 	margin:  0 auto;
-	background-color: red;
+	background-color: royalblue;
 }
 
 .list li {
@@ -63,6 +65,11 @@ h1, h2, h3, h4 {
   list-style-type: "\1F44D";
   list-style-position: inside;
 }
+
+li.even {
+	text-align: justify;
+	margin: 0.5em;
+} 
 .nav_ {
   width: 90%;
   margin: 0 auto;
