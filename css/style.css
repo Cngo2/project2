@@ -12,11 +12,12 @@ h1, h2, h3, h4 {
 }
 
 h1 {
-	border-bottom: 1px dotted #CCCCFF;
+	display: inline;
+	border-bottom: 3px solid #f9dd94;
 }
 
 h2, h3, h4 {
-	border-bottom: 1px dotted #EB984E;
+	text-decoration: underline wavy #EB984E;
 }
 .nav_ {
   background-color: #A9CCE3;
