@@ -63,13 +63,19 @@ h2, h3, h4 {
     border-radius: 15px
 }
 
-.left,
-.right {
+.left {
 	float: left;
 	width: 50%;
 	text-align: center;
 	margin: 0;
 	padding: 0;
+	background-color: #E8F6F3;
+	border: 2px solid black;
+  border-radius: 15px
+}
+
+.right {
+	float: right;
 	background-color: #E8F6F3;
 	border: 2px solid black;
   border-radius: 15px
@@ -234,6 +240,11 @@ h2, h3, h4 {
 	border: 2px solid black;
   border-radius: 15px;
   text-align: center;
+}2
+
+.rose_reel {
+	display: block;
+	margin: 0 auto;
 }
 
 .list li {
