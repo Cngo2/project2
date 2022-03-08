@@ -16,16 +16,11 @@ h1, h2, h3, h4 {
 	padding: 20px;
 	background-color: #E8F6F3;
 	border: 2px solid black;
-    border-radius: 25px
+    border-radius: 15px
 }
 
 .skills_skeleton {
-	width: 80%;
 	margin:  0 auto;
-	background-color: #E8F6F3;
-	border: 2px solid black;
-    border-radius: 25px
-
 }
 
 .education-content {
@@ -33,13 +28,13 @@ h1, h2, h3, h4 {
 	margin:  0 auto;
 	background-color: #E8F6F3;
 	border: 2px solid black;
-    border-radius: 25px
+    border-radius: 15px
 }
 
 .pro-skeleton {
 	background-color: #E8F6F3;
 	border: 2px solid black;
-    border-radius: 25px
+    border-radius: 15px
 }
 
 .left,
@@ -51,6 +46,13 @@ h1, h2, h3, h4 {
 	padding: 0;
 }
 
+.left,
+.right {
+	background-color: #E8F6F3;
+	border: 2px solid black;
+    border-radius: 15px
+}
+
 .apple,
 .plexus,
 .dcc {
@@ -60,18 +62,18 @@ h1, h2, h3, h4 {
 }
 
 .proj-skeleton {
-	width: 80%;
+	width: auto;
 	margin:  0 auto;
 	background-color: #E8F6F3;
 	border: 2px solid black;
-    border-radius: 25px}
+    border-radius: 15px}
 
 .volun-skeleton {
-	width: 80%;
+	width: auto;
 	margin:  0 auto;
 	background-color: #E8F6F3;
 	border: 2px solid black;
-    border-radius: 25px
+    border-radius: 15px
 }
 
 .list li {
@@ -112,6 +114,6 @@ li.even {
 /*hover*/
 
 .nav_ li a:hover {
-  color: #A0F7EB;
-  background-color: #A2D9CE;
+  color: white;
+  background-color: white;
   text-decoration: none;
