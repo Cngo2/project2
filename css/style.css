@@ -12,7 +12,6 @@ h1, h2, h3, h4 {
 }
 
 .contactp {
-	width: 50%;
 	text-align: center;
 	padding: 20px;
 	background-color: #E8F6F3;
@@ -85,33 +84,28 @@ li.even {
 	margin: 0.5em;
 } 
 .nav_ {
-  width: 40%;
-  margin: 0 auto;
-}
-.nav_ ul {
-  margin: 0;
-  padding: 5px;
-  margin: 0 auto;
   background-color: #A9CCE3;
 }
-.nav_ li {
-  width: 100%;
-  
+.nav_ ul {
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.nav_ ul li {
+  float: none;
   text-align: center;
   box-sizing: content-box;
-  margin-bottom: 2%;
-  list-style: none;
-}
-
-.nav_ li a {
-  display: block;
-  padding: 0px;
-  color: black;
+  font-size: 15px;
+  color:  #fff;
+  text-decoration: none;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: Verdana, sans-serif;
 }
 
 /*hover*/
 
 .nav_ li a:hover {
-  color: white;
-  background-color: white;
-  text-decoration: none;
+  color: #000;
+  background-color: #ccc;
