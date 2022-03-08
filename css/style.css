@@ -11,28 +11,41 @@ h1, h2, h3, h4 {
 	text-align: center;
 }
 
+.nav_ {
+  background-color: #A9CCE3;
+}
+.nav_ ul {
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.nav_ ul li {
+  float: left;
+}
+
+.nav_ ul li a {
+	display: block;
+	padding: 20px;
+	text-align: center;
+  	font-size: 15px;
+  	color:  #fff;
+  	text-decoration: none;
+  	font-weight: bold;
+  	text-transform: uppercase;
+  	font-family: Verdana, sans-serif;
+  	list-style-type: none;
+}
+/*hover*/
+
+.nav_ li a:hover {
+  color: #000;
+  background-color: #ccc;
+}
+
 .contactp {
 	text-align: center;
 	padding: 20px;
-	background-color: #E8F6F3;
-	border: 2px solid black;
-    border-radius: 15px
-}
-
-.skills_skeleton {
-	margin:  0 auto;
-}
-
-.education-content {
-	width: 75%;
-	margin:  0 auto;
-	background-color: #E8F6F3;
-	border: 2px solid black;
-    border-radius: 15px
-}
-
-.pro-skeleton {
-	width: 90%;
 	background-color: #E8F6F3;
 	border: 2px solid black;
     border-radius: 15px
@@ -45,6 +58,20 @@ h1, h2, h3, h4 {
 	text-align: center;
 	margin: 0;
 	padding: 0;
+	background-color: #E8F6F3;
+	border: 2px solid black;
+    border-radius: 15px
+}
+
+.education-content {
+	margin:  0 auto;
+	background-color: #E8F6F3;
+	border: 2px solid black;
+    border-radius: 15px
+}
+
+.pro-skeleton {
+	width: 90%;
 	background-color: #E8F6F3;
 	border: 2px solid black;
     border-radius: 15px
@@ -83,29 +110,3 @@ li.even {
 	text-align: justify;
 	margin: 0.5em;
 } 
-.nav_ {
-  background-color: #A9CCE3;
-}
-.nav_ ul {
-	list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-}
-.nav_ ul li {
-  float: none;
-  text-align: center;
-  box-sizing: content-box;
-  font-size: 15px;
-  color:  #fff;
-  text-decoration: none;
-  font-weight: bold;
-  text-transform: uppercase;
-  font-family: Verdana, sans-serif;
-}
-
-/*hover*/
-
-.nav_ li a:hover {
-  color: #000;
-  background-color: #ccc;
