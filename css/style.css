@@ -23,7 +23,7 @@ h1, h2, h3, h4 {
 
 }
 
-.education {
+.education-content {
 	width: 80%;
 	margin:  0 auto;
 	background-color: red;
@@ -38,6 +38,8 @@ h1, h2, h3, h4 {
 	float: left;
 	width: 50%;
 	text-align: center;
+	margin: 0;
+	padding: 0;
 }
 
 .apple,
