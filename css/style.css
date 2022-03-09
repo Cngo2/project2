@@ -12,8 +12,17 @@ h1 {
 	border-bottom: 3px solid #f9dd94;
 }
 
-h2, h3, h4 {
+h2 {
+	color: #F0B27A;
 	text-decoration: underline wavy #EB984E;
+}
+
+h3 {
+	color: #2471A3;
+}
+
+h4{
+	color: #909497;
 }
 .nav_ {
   background-color: #A9CCE3;
