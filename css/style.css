@@ -14,7 +14,8 @@ h1 {
 
 h2 {
 	color: #154360;
-	text-decoration: 3px dashed;
+	text-decoration-line: underline;
+	text-decoration-style: dashed;
 	text-decoration-color: #7F8C8D;
 }
 
@@ -239,17 +240,16 @@ h4{
 	position: relative;
 }
 
-/*
 .rose {
-	background-image: "media/bulls.jpg";
+	background-image: "/media/bulls.jpg";
+	background-size: cover; 
 }
 .dwade {
-	background-image: "media/bulls.jpg";
+	background-image: "media/heat.jpg";
 }
 .pg {
-	background-image: "media/bulls.jpg";
+	background-image: src("media/clippers.jpg");
 }
-*/
 
 .drose {
 	margin: 0 auto;
