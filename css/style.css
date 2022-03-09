@@ -14,9 +14,10 @@ h1 {
 
 h2 {
 	color: #154360;
-	text-decoration: underline wavy #7F8C8D;
+	text-decoration: dashed #7F8C8D;
 }
 
+#7F8C8D;
 h3 {
 	color: #2471A3;
 }
@@ -70,7 +71,7 @@ h4{
 
 .skills {
 	width: 100%;
-	height: 300px;
+	height: 190px;
 }
 .left {
 	float: left;
@@ -80,7 +81,8 @@ h4{
 	padding: 0;
 	background-color: #E8F6F3;
 	border: 2px solid black;
-  border-radius: 15px
+  border-radius: 15px;
+  height: 65%;
 }
 
 .right {
@@ -91,7 +93,8 @@ h4{
 	padding: 0;
 	background-color: #E8F6F3;
 	border: 2px solid black;
-  border-radius: 15px
+  border-radius: 15px;
+  height: 65%;
 }
 
 .education-content {
@@ -110,14 +113,14 @@ h4{
 	float: left;
 	width: 31%;
 	text-align: center;
-	height: 87.5%;
+	height: 95%;
 }
 
 .apple,
 .plexus,
 .dcc { 
-	margin: 0;
-	padding: 0;
+	margin: 1%;
+	padding: 0px 0.5px 0px 0.5px;
 	background-color: #E8F6F3;
 	border: 2px solid black;
   border-radius: 15px
@@ -220,14 +223,14 @@ h4{
 }
 
 .wade{
-	margin:  0 auto;
+	margin: 0 auto;
 	background-color: #E8F6F3;
 	border: 2px solid black;
   border-radius: 15px
 }
 
 .wade_accolades{
-	margin:  0 auto;
+	margin: 0 auto;
 	background-color: #E8F6F3;
 	border: 2px solid black;
   border-radius: 15px;
@@ -235,19 +238,19 @@ h4{
 }
 
 .pg_ {
-	margin:  0 auto;
+	margin: 0 auto;
 	background-color: #E8F6F3;
 	border: 2px solid black;
   border-radius: 15px
 }
 
 .pg_accolades{
-	margin:  0 auto;
+	margin: 0 auto;
 	background-color: #E8F6F3;
 	border: 2px solid black;
   border-radius: 15px;
   text-align: center;
-}2
+}
 
 .rose_reel {
 	display: block;
@@ -256,8 +259,9 @@ h4{
 
 .list li {
   text-align: center;
-  list-style-type: "\1F44D";
+  list-style-type: square;
   list-style-position: inside;
+  list-style-type color: red;
 }
 
 li.even {
