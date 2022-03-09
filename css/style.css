@@ -13,8 +13,8 @@ h1 {
 }
 
 h2 {
-	color: #F0B27A;
-	text-decoration: underline wavy #EB984E;
+	color: #273746;
+	text-decoration: underline wavy #7F8C8D;
 }
 
 h3 {
@@ -69,8 +69,8 @@ h4{
 }
 
 .skills {
-	width: 100%;
-	height: 500px;
+	width: 90%;
+	height: 100%;
 }
 .left {
 	float: left;
