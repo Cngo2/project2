@@ -149,10 +149,12 @@ h4{
 .projects{
 	width: 100%;
 	height: 300px;
+	overflow: hidden;
 }
 .volunteer {
 	width: 100%;
 	height: 300px;
+	overflow: hidden;
 }
 .exposure img,
 .cad img,
@@ -293,7 +295,7 @@ h4{
 }
 .rose h2,
 .pg h2,
-.dwade h2,{
+.dwade h2 {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
