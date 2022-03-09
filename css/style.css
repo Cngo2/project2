@@ -14,7 +14,8 @@ h1 {
 
 h2 {
 	color: #154360;
-	text-decoration: 3px dashed #7F8C8D;
+	text-decoration: 3px dashed;
+	text-decoration-color: #7F8C8D;
 }
 
 h3 {
@@ -314,13 +315,14 @@ h4{
 	padding: 0px 0px 15px 0px;
 }
 .list li {
-  text-align: center;
+	text-align: center;
   list-style-type: square;
   list-style-position: inside;
   list-style-type color: red;
 }
 
 li.even {
+	margin: 0 auto;
 	text-align: justify;
 	margin: 0.5em;
 } 
