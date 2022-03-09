@@ -328,12 +328,14 @@ h4{
 	padding: 0px 0px 15px 0px;
 }
 
-.rose h1, h2,
-.pg h1, h2,
-.dwade h1, h2 {
-	margin: auto 0;
+.rose h2, h3,
+.pg h2, h3,
+.dwade h2, h3 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 	background-color: white;
-	width: 30%;
+	width: 35%;
 }
 
 .list li {
