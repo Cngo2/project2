@@ -2,28 +2,23 @@ body {
 	background-color: #F2F4F4;
 	font-family: Verdana, sans-serif;
 }
-
 h1, h2, h3, h4 {
 	text-align: center;
 }
-
 h1 {
 	padding: 15px 0px 0px 0px;
 	display: inline;
 	border-bottom: 3px solid #f9dd94;
 }
-
 h2 {
 	color: #154360;
 	text-decoration-line: underline;
 	text-decoration-style: dashed;
 	text-decoration-color: #7F8C8D;
 }
-
 h3 {
 	color: #2471A3;
 }
-
 h4{
 	color: #909497;
 }
@@ -42,7 +37,6 @@ h4{
   float: left;
   list-style-type: none;
 }
-
 .nav_ ul li a {
 	display: block;
 	padding: 20px;
@@ -56,13 +50,11 @@ h4{
   list-style-type: none;
 }
 /*hover*/
-
 .nav_ li a:hover {
   color: #000;
   background-color: #ccc;
   list-style-type: none;
 }
-
 .contactp {
 	text-align: center;
 	padding: 10px;
@@ -73,7 +65,6 @@ h4{
   width: 60%;
  	overflow: hidden;
 }
-
 .skills {
 	width: 100%;
 	height: 175px;
@@ -91,7 +82,6 @@ h4{
   height: 100px;
   overflow: hidden;
 }
-
 .right {
 	float: right;
 	width: 45%;
@@ -104,7 +94,6 @@ h4{
   height: 100px;
   overflow: hidden;
 }
-
 .education-content {
 	margin: 0 auto;
 	width: 60%;
@@ -126,7 +115,6 @@ h4{
 	height: 95%;
 	overflow: hidden;
 }
-
 .apple,
 .plexus,
 .dcc { 
@@ -136,7 +124,6 @@ h4{
 	border: 2px solid black;
   border-radius: 15px
 }
-
 .p-r {
 	float: left;
 	width: 49%;
@@ -167,7 +154,6 @@ h4{
 	width: 100%;
 	height: 300px;
 }
-
 .exposure img,
 .cad img,
 .product img {
@@ -176,80 +162,66 @@ h4{
 	height: 350px;
 	width: 575px;
 }
-
 .exposure{
 	background-color: #EBDEF0;
 }
-
 .exposure img{
 	display: block;
   margin-left: auto;
   margin-right: auto;
 }
-
 .origin {
 	position: absolute;
 	background-color: #E8F6F3;
 	border: 2px solid black;
   border-radius: 15px;
  }
-
 .origin {
 	position: relative;
 }
-
 .cad{
 	background-color: #F2D7D5;
 }
-
 .cad img{
 	position: relative;
 	display: block;
   margin-left: auto;
   margin-right: auto;
 }
-
 .dmodel {
 	position: absolute;
 	background-color: #E8F6F3;
 	border: 2px solid black;
   border-radius: 15px;
  }
-
 .dmodel {
 	position: relative;
 }
-
 .product {
 	background-color: #FCF3CF;
 }
-
 .product img{
 	display: block;
   margin-left: auto;
   margin-right: auto;
 }
-
 .printedprod {
 	position: absolute;
 	background-color: #E8F6F3;
 	border: 2px solid black;
   border-radius: 15px;
  }
-
 .printedprod{
 	position: relative;
 }
-
 .rose h2{
-	padding: 10px 0px 0px 0px;
+	padding: 5px 0px 0px 0px;
 }
-
 .dwade h2{
-	padding: 10px 0px 0px 0px;
+	padding: 5px 0px 0px 0px;
 }
 .pg h2{
-	padding: 10px 0px 0px 0px;
+	padding: 5px 0px 0px 0px;
 }
 .rose {
 	background-image: url("https://i.pinimg.com/736x/60/81/4c/60814cd440a38d2af1618f7da5a9a288.jpg");
@@ -263,14 +235,12 @@ h4{
 	background-image: url("https://www.joann.com/dw/image/v2/AAMM_PRD/on/demandware.static/-/Sites-joann-product-catalog/default/dw038c2dae/images/hi-res/alt/11692746alt1.jpg?sw=556&sh=680&sm=fit");
 	background-size: cover; 
 }
-
 .drose {
 	margin: 0 auto;
 	background-color: #E8F6F3;
 	border: 2px solid black;
   border-radius: 15px
 }
-
 .rose_accolades {
 	margin:  0 auto;
 	background-color: #E8F6F3;
@@ -279,15 +249,13 @@ h4{
   text-align: center;
   width: 55%;
 }
-
-.wade{
+.wade {
 	margin: 0 auto;
 	background-color: #E8F6F3;
 	border: 2px solid black;
   border-radius: 15px
 }
-
-.wade_accolades{
+.wade_accolades {
 	margin: 0 auto;
 	background-color: #E8F6F3;
 	border: 2px solid black;
@@ -295,14 +263,12 @@ h4{
   text-align: center;
   width: 55%;
 }
-
 .pg_ {
 	margin: 0 auto;
 	background-color: #E8F6F3;
 	border: 2px solid black;
   border-radius: 15px
 }
-
 .pg_accolades {
 	margin: 0 auto;
 	background-color: #E8F6F3;
@@ -311,13 +277,11 @@ h4{
   text-align: center;
   width: 55%;
 }
-
 .reels {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 }
-
 .rose_reel{
 	padding: 0px 0px 15px 0px;
 }
@@ -327,33 +291,37 @@ h4{
 .pg_reel{
 	padding: 0px 0px 15px 0px;
 }
-
-.rose h2, h3,
-.pg h2, h3,
-.dwade h2, h3 {
+.rose h2,
+.pg h2,
+.dwade h2,{
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 	background-color: white;
-	width: 35%;
+	width: 20%;
 }
-
+.rose h3,
+.pg h3,
+.dwade h3 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	width: 30%;
+}
 .list li {
 	text-align: center;
   list-style-type: square;
   list-style-position: inside;
 }
-
 li.even {
 	margin: 0 auto;
 	text-align: justify;
 	margin: 0.5em;
 } 
-
 .skills li {
 	text-align: center;
 }
-
 .education-content li {
 	text-align: center;
 }
