@@ -1,13 +1,9 @@
 body {
 	background-color: #F2F4F4;
-}
-
-body li a{
-  font-family: Verdana, sans-serif;
+	font-family: Verdana, sans-serif;
 }
 
 h1, h2, h3, h4 {
-	font-family: Verdana, sans-serif;
 	text-align: center;
 }
 
@@ -68,7 +64,7 @@ h2, h3, h4 {
 	width: 50%;
 	text-align: center;
 	margin: 0;
-	padding: 0;
+	padding: 10;
 	background-color: #E8F6F3;
 	border: 2px solid black;
   border-radius: 15px
@@ -76,6 +72,10 @@ h2, h3, h4 {
 
 .right {
 	float: right;
+	width: 50%;
+	text-align: center;
+	margin: 0;
+	padding: 10px;
 	background-color: #E8F6F3;
 	border: 2px solid black;
   border-radius: 15px
@@ -83,13 +83,6 @@ h2, h3, h4 {
 
 .education-content {
 	margin:  0 auto;
-	background-color: #E8F6F3;
-	border: 2px solid black;
-  border-radius: 15px
-}
-
-.pro-skeleton {
-	width: 90%;
 	background-color: #E8F6F3;
 	border: 2px solid black;
   border-radius: 15px
@@ -106,19 +99,8 @@ h2, h3, h4 {
 .apple,
 .plexus,
 .dcc { 
-	background-color: #E8F6F3;
-	border: 2px solid black;
-  border-radius: 15px
-}
-
-.proj-skeleton {
-	margin:  0 auto;
-	background-color: #E8F6F3;
-	border: 2px solid black;
-  border-radius: 15px}
-
-.volun-skeleton {
-	margin:  0 auto;
+	margin: 0;
+	padding: 10px;
 	background-color: #E8F6F3;
 	border: 2px solid black;
   border-radius: 15px
