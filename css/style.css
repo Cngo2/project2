@@ -307,7 +307,15 @@ h4{
   list-style-position: inside;
   list-style-type color: red;
 }
-
+.rose_reel{
+	padding: 0px 0px 15px 0px;
+}
+.wadereel{
+	padding: 0px 0px 15px 0px;
+}
+.pg_reel{
+	padding: 0px 0px 15px 0px;
+}
 li.even {
 	text-align: justify;
 	margin: 0.5em;
