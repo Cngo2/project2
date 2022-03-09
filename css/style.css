@@ -327,6 +327,15 @@ h4{
 .pg_reel{
 	padding: 0px 0px 15px 0px;
 }
+
+.rose h1, h2,
+.pg h1, h2,
+.dwade h1, h2 {
+	margin: auto 0;
+	background-color: white;
+	width: 30%;
+}
+
 .list li {
 	text-align: center;
   list-style-type: square;
