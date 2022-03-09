@@ -114,6 +114,7 @@ h4{
 	width: 31%;
 	text-align: center;
 	height: 95%;
+	overflow: hidden;
 }
 
 .apple,
@@ -207,6 +208,15 @@ h4{
 	position: relative;
 }
 
+.rose {
+	background-image: "media/bulls.jpg";
+}
+.dwade {
+	background-image: "media/bulls.jpg";
+}
+.pg {
+	background-image: "media/bulls.jpg";
+}
 .drose {
 	margin:  0 auto;
 	background-color: #E8F6F3;
@@ -244,7 +254,7 @@ h4{
   border-radius: 15px
 }
 
-.pg_accolades{
+.pg_accolades {
 	margin: 0 auto;
 	background-color: #E8F6F3;
 	border: 2px solid black;
@@ -254,9 +264,20 @@ h4{
 
 .rose_reel {
 	display: block;
-	margin: 0 auto;
+	margin-left: auto;
+	margin-right: auto;
 }
 
+.wade_reel {
+	display: block;
+	align-items: center;
+}
+
+.pg_reel {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
 .list li {
   text-align: center;
   list-style-type: square;
