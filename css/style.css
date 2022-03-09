@@ -338,3 +338,11 @@ li.even {
 	text-align: justify;
 	margin: 0.5em;
 } 
+
+.skills li {
+	text-align: center;
+}
+
+.education-content li {
+	text-align: center;
+}
