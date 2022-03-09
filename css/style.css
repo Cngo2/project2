@@ -136,7 +136,7 @@ h4{
 
 .p-r {
 	float: left;
-	width: 45%;
+	width: 49%;
 	text-align: center;
 	margin: 0;
 	padding: 0;
@@ -147,7 +147,7 @@ h4{
 }
 .r-p {
 	float: right;
-	width: 45%;
+	width: 49%;
 	text-align: center;
 	margin: 0;
 	padding: 0;
@@ -301,12 +301,6 @@ h4{
 	margin-right: auto;
 }
 
-.list li {
-  text-align: center;
-  list-style-type: square;
-  list-style-position: inside;
-  list-style-type color: red;
-}
 .rose_reel{
 	padding: 0px 0px 15px 0px;
 }
@@ -316,6 +310,13 @@ h4{
 .pg_reel{
 	padding: 0px 0px 15px 0px;
 }
+.list li {
+  text-align: center;
+  list-style-type: square;
+  list-style-position: inside;
+  list-style-type color: red;
+}
+
 li.even {
 	text-align: justify;
 	margin: 0.5em;
