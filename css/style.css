@@ -2,13 +2,8 @@ body {
   background-color: #F2F4F4;
   font-family: Verdana, sans-serif;
 }
-<<<<<<< HEAD
-h1, h2, h4 {
-	text-align: center;
-=======
 h1, h2, h3, h4 {
   text-align: center;
->>>>>>> 96d395339007475e9696accbe0a7b6251b72b34e
 }
 h1 {
   padding: 15px 0px 0px 0px;
@@ -22,12 +17,8 @@ h2 {
   text-decoration-color: #7F8C8D;
 }
 h3 {
-<<<<<<< HEAD
 	font-family: 'Nova Mono', monospace;
 	color: #2471A3;
-=======
-  color: #2471A3;
->>>>>>> 96d395339007475e9696accbe0a7b6251b72b34e
 }
 h4 {
   color: #909497;
