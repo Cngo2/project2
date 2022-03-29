@@ -37,6 +37,7 @@ h4 {
 .nav_ ul li {
   list-style-type: none;
   display: inline-block;
+  padding: 15px;
 }
 .nav_ ul li a {
   padding: 20px;
