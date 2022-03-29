@@ -25,15 +25,13 @@ h4 {
 }
 .nav_ {
   float: left;
-  position: relative; 
   background-color: #A9CCE3;
   list-style-type: none;
 }
 .nav_ ul {
   list-style-type: none;
-  position: relative;
-  left: 50%;
   float: left;
+  left: 50%;
   margin: 0;
   padding: 0;
   overflow: hidden;
@@ -42,7 +40,6 @@ h4 {
 .nav_ ul li {
   float: left;
   display: block;
-  position: relative;
   right: 50%;
 }
   list-style-type: none;
