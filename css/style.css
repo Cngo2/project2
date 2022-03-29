@@ -36,8 +36,6 @@ h4 {
 }
 .nav_ ul li {
   float: left;
-  display: block;
-}
   list-style-type: none;
 }
 .nav_ ul li a {
@@ -45,7 +43,7 @@ h4 {
   padding: 20px;
   text-align: center;
   font-size: 15px;
-  color:  #fff;
+  color: #fff;
   text-decoration: none;
   font-weight: bold;
   text-transform: uppercase;
@@ -180,6 +178,7 @@ h4 {
   background-color: #E8F6F3;
   border: 2px solid black;
   border-radius: 15px;
+  padding: 10px;
  }
 .origin {
   position: relative;
@@ -198,6 +197,7 @@ h4 {
   background-color: #E8F6F3;
   border: 2px solid black;
   border-radius: 15px;
+  padding: 10px;
  }
 .dmodel {
   position: relative;
@@ -215,6 +215,7 @@ h4 {
   background-color: #E8F6F3;
   border: 2px solid black;
   border-radius: 15px;
+  padding: 10px;
  }
 .printedprod {
   position: relative;
@@ -242,7 +243,7 @@ h4 {
 }
 .drose {
   margin: 0 auto;
-  padding: 5px;
+  padding: 10px;
   background-color: #E8F6F3;
   border: 2px solid black;
   border-radius: 15px
@@ -257,7 +258,7 @@ h4 {
 }
 .wade {
   margin: 0 auto;
-  padding: 5px;
+  padding: 10px;
   background-color: #E8F6F3;
   border: 2px solid black;
   border-radius: 15px
@@ -272,7 +273,7 @@ h4 {
 }
 .pg_ {
   margin: 0 auto;
-  padding: 5px;
+  padding: 10px;
   background-color: #E8F6F3;
   border: 2px solid black;
   border-radius: 15px
