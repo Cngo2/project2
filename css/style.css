@@ -32,13 +32,12 @@ h4 {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  list-style-type: none;
+  text-align: center;
 }
 .nav_ ul li {
   float: left;
   list-style-type: none;
   display: inline-block;
-  text-align: center;
 }
 .nav_ ul li a {
   padding: 20px;
